@@ -2,9 +2,9 @@ package org.program;
 
 public interface ProductMenu {
 
-	public abstract void showMenu();
+	public abstract void showMenu(int userType);
 
-	public abstract void showAddButton();
+	public abstract void showAddButton(int userType);
 
 	public abstract void showViewButton();
 

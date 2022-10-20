@@ -5,23 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0fcc95ed-8a8c-4bdd-9fe5-a9bfa771e16a" name="Changes" comment="FirstCommit">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/program/Buyer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/program/ClassProductList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/program/Facade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/program/Login.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/program/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/program/MeatProductMenu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/program/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/program/ProduceProductMenu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/program/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/program/ProductMenu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/program/Seller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/program/UserInfoItem.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/program/Buyer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/program/Buyer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/program/Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/program/Login.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/program/MeatProductMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/program/MeatProductMenu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/program/ProduceProductMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/program/ProduceProductMenu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/program/ProductMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/program/ProductMenu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/program/Seller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/program/Seller.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -115,7 +105,8 @@
       <workItem from="1665989924647" duration="4053000" />
       <workItem from="1666117184131" duration="411000" />
       <workItem from="1666117674003" duration="12359000" />
-      <workItem from="1666195382109" duration="10958000" />
+      <workItem from="1666195382109" duration="15746000" />
+      <workItem from="1666286756790" duration="5291000" />
     </task>
     <task id="LOCAL-00001" summary="FirstCommit">
       <created>1666124106231</created>
@@ -124,7 +115,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666124106231</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="FirstCommit">
+      <created>1666212407188</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1666212407188</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

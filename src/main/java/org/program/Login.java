@@ -10,6 +10,7 @@ public class Login extends Facade {
 
     Scanner scanner=new Scanner(System.in);
     Buyer buyer=new Buyer();
+    Seller seller=new Seller();
     public boolean login()
     {
         System.out.println("Welcome to the trading application");
@@ -20,16 +21,16 @@ public class Login extends Facade {
         setUserType(userType);
         if(userType==0)
         {
-            loginBuyer();
+            loginBuyer(userType);
         }
         else if(userType==1)
         {
-            loginSeller();
+            loginSeller(userType);
         }
         return  true;
     }
 
-    public void loginBuyer()
+    public void loginBuyer(int userType)
     {
         System.out.println("Please Enter your UserName");
         String userName=scanner.next();
@@ -53,12 +54,12 @@ public class Login extends Facade {
                 if(password.equals(pwd))
                 {
                     System.out.println("Login successful! Welcome "+userName);
-                    buyer.showMenu();
+                    buyer.showMenu(userType);
                 }
                 else
                 {
                     System.out.println("Please Check your username/password you have entered");
-                    loginBuyer();
+                    loginBuyer(userType);
                 }
             }
             else
@@ -73,7 +74,7 @@ public class Login extends Facade {
             System.out.println(exception);
         }
     }
-    public void loginSeller()
+    public void loginSeller(int userType)
     {
         System.out.println("Please Enter your UserName");
         String userName=scanner.next();
@@ -97,11 +98,12 @@ public class Login extends Facade {
                 if(password.equals(pwd))
                 {
                     System.out.println("Login successful! Welcome "+userName);
+                    seller.showMenu(userType);
                 }
                 else
                 {
                     System.out.println("Please Check your username/password you have entered");
-                    loginSeller();
+                    loginSeller(userType);
                 }
             }
             else
