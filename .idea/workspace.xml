@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0fcc95ed-8a8c-4bdd-9fe5-a9bfa771e16a" name="Changes" comment="FirstCommit">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/program/Buyer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/program/Buyer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/program/Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/program/Login.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/program/MeatProductMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/program/MeatProductMenu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/program/ProduceProductMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/program/ProduceProductMenu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/program/ProductMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/program/ProductMenu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/program/Seller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/program/Seller.java" afterDir="false" />
-    </list>
+    <list default="true" id="0fcc95ed-8a8c-4bdd-9fe5-a9bfa771e16a" name="Changes" comment="FirstCommit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -106,7 +98,7 @@
       <workItem from="1666117184131" duration="411000" />
       <workItem from="1666117674003" duration="12359000" />
       <workItem from="1666195382109" duration="15746000" />
-      <workItem from="1666286756790" duration="5291000" />
+      <workItem from="1666286756790" duration="5817000" />
     </task>
     <task id="LOCAL-00001" summary="FirstCommit">
       <created>1666124106231</created>
@@ -122,7 +114,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666212407188</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="FirstCommit">
+      <created>1666296251283</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1666296251284</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
